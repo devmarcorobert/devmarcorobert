@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Marco-Robert Glavan</h1>
-<h3 align="center">A passionate full stack developer from Austria</h3>
+<h3 align="center">A full stack developer from Austria</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/stormtroopocat.png">
 
 
